@@ -37,7 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Aquaponic_guide'
+    'Aquaponic_guide',
+    'rest_framework'
 ]
 
 MIDDLEWARE = [
